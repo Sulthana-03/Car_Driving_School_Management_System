@@ -152,4 +152,5 @@
 ### Home page:
 
 
-     <img width="848" height="469" alt="image" src="https://github.com/user-attachments/assets/84f866ae-00a4-47b2-93bf-0be1558ebc09" />
+     ![image alt](<img width="848" height="469" alt="image" src="https://github.com/user-attachments/assets/72e31363-da42-47dc-a283-21cdafaea126" />)
+
