@@ -140,8 +140,15 @@
 
 
 ### SOFTWARE REQUIREMENTS
-•	Operating System	:	Windows 11
-•	Plug-in	       :	XAMPP Server
-•	Back-End	       :	PHP/MYSQL
-•	Framework	       :	BOOTSTRAP
-•	Front-End	       :	HTML, CSS, JAVASCRIPT
+       •	Operating System	:	Windows 11
+       •	Plug-in	       :	XAMPP Server
+       •	Back-End	       :	PHP/MYSQL
+       •	Framework	       :	BOOTSTRAP
+       •	Front-End	       :	HTML, CSS, JAVASCRIPT
+
+
+### SCREENSHOTS
+
+      Home page:
+      <img width="848" height="469" alt="image" src="https://github.com/user-attachments/assets/34e7a967-b61f-4066-8cf8-90358f5a9d68" />
+
