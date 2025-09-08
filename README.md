@@ -149,6 +149,5 @@
 
 ### SCREENSHOTS
 
-      Home page:
-      <img width="848" height="469" alt="image" src="https://github.com/user-attachments/assets/34e7a967-b61f-4066-8cf8-90358f5a9d68" />
-
+###Home page:
+     <img width="848" height="469" alt="image" src="https://github.com/user-attachments/assets/84f866ae-00a4-47b2-93bf-0be1558ebc09" />
