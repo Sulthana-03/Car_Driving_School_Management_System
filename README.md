@@ -141,7 +141,7 @@
 
  
 ### SCREENSHOTS
-### Home page
+### Home pages
 
 ![alt text](image.png)
 
